@@ -26,7 +26,7 @@ Set up the Python development environment for Data Science.
 - GitHub
 
 ## Output
-"C:\Users\Arpita Singh\OneDrive\Pictures\Screenshots\DataScience_Setup.png"
+<img width="775" height="339" alt="DataScience_Setup" src="https://github.com/user-attachments/assets/cb69c0b7-4376-4bd2-a41e-c46d314d0ee8" />
 
 ## Author
 Arpita Singh
